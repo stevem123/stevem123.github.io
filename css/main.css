@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 background: url("http://img12.deviantart.net/b61b/i/2014/189/6/5/urgot_background_by_ilynx42-d7pu0mw.jpg") no-repeat center;
-    background-size: cover;
+    background-size: contain;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
