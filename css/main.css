@@ -1,8 +1,8 @@
 body {
-    background: url("http://cdn.wallpapersafari.com/79/59/x9rqg5.jpg") no-repeat center bottom;
+    background: url("http://cdn.wallpapersafari.com/79/59/x9rqg5.jpg") no-repeat center;
     background-size: cover;
     margin: 60px auto;
-    width: 70%;
+    width: 100%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
