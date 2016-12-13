@@ -1,6 +1,6 @@
 body {
     background: url("https://i.ytimg.com/vi/12DsuNO2Sjs/maxresdefault.jpg") no-repeat center;
-    background-size: cover;
+    background-size: contain;
     margin: 60px auto;
     width: 70%;
 }
