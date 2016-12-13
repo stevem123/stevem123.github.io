@@ -1,8 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-background: url("http://img12.deviantart.net/b61b/i/2014/189/6/5/urgot_background_by_ilynx42-d7pu0mw.jpg") no-repeat center;
-    background-size: 100% 100%;
+background: url("http://vignette4.wikia.nocookie.net/leagueoflegends/images/e/ec/Urgot_OriginalSkin_Ch.jpg/revision/latest?cb=20110228203830") no-repeat center;
+    background-size: contain;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
