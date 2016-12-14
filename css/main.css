@@ -26,10 +26,14 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: LightGreen;
 }
+    h2{ font-size :2em
+        color White
+    }
+
 p {
     font-size: 1.8em;
     line-height: 1.4em;
-    color: #333;
+    color: White;
     font-family: 'Times', 'Arial', 'San-Serif';
 }
 footer {
