@@ -53,12 +53,7 @@ ul.posts li {
 ol li {
        margin: 20px auto 40px; 
     font-size 1.5em;
-    color: YellowGreen;
-}
-table, td {
-    height: 150px;
-    width: 50%;
-    
+    color: YellowGreen; 
 }
 .size{
 width:50%;
