@@ -1,6 +1,7 @@
 body {
     background: url("http://img12.deviantart.net/a813/i/2012/184/e/f/3__urgot_by_shareonthepark-d55vhcu.jpg") no-repeat center;
     background-size: cover;
+    background-attachment: fixed;
     margin: 60px auto;
     width: 70%;
 }
