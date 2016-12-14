@@ -55,4 +55,9 @@ ol li {
     font-size 1.5em;
     color: YellowGreen;
 }
+table, td {
+    height: 150px;
+    width: 50%;
+    
+}
 
