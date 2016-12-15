@@ -26,13 +26,19 @@ h1 {
     font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: LightGreen;
+          letter-spacing: 2px;
+        padding: 
 }
-    h2{ font-size :3em;
-        color: Azure;
+    h2{  font-size: 4em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: LightGreen;
+      letter-spacing: 2px;
+        padding: 100px
     }
 
 p {
     font-size: 1.8em;
+    letter-spacing: 1.5px;
     line-height: 1.4em;
     color: Azure;
     font-family: 'Times', 'Arial', 'San-Serif';
@@ -63,16 +69,12 @@ table {
   overflow-y: scroll;
   position: static;
   width: 80%;
-}
-
-thead th {
-  font-family: 'Lato', sans-serif;
-    text-align: right;
-  font-size: 4em;
-  font-weight: 100;
-  letter-spacing: 2px;
-    
-  text-transform: uppercase;
+} 
+h3{
+    position:center
+        font-size: 3em;
+              letter-spacing: 2px;
+        padding: 100px
 }
 
 tr {
@@ -80,7 +82,7 @@ tr {
   margin-bottom: 5px;
 }
 
-td {
+th, td{
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   padding: 20px;
