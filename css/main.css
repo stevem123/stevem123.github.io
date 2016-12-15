@@ -27,13 +27,13 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: LightGreen;
           letter-spacing: 2px;
-        padding: 
+        padding:100;
 }
     h2{  font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: LightGreen;
       letter-spacing: 2px;
-        padding: 100px
+        padding: 100px;
     }
 
 p {
@@ -58,8 +58,11 @@ ul.posts li {
 }
 ol li {
        margin: 20px auto 40px; 
-    font-size 2em;
-    color: YellowGreen; 
+    font-size 2.5em;
+    letter-spacing 1.5px;
+    padding: 50px;
+    font-weight 100;
+    color:Lime; 
 }
 table {
     color:white;
@@ -73,7 +76,8 @@ table {
 h3{
         font-size: 3em;
               letter-spacing: 2px;
-        padding: 100px
+        padding: 100px;
+        font-weight 200;
 }
 
 tr {
