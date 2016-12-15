@@ -79,11 +79,16 @@ tr {
 }
 
 th, td {
+    color: White
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   padding: 20px;
   text-align: left;
   font-size:18px;
   width: 33.3333%;
+}
+.border{
+  border: 1px solid #DDD;
+  border-radius: 3px;
 }
 
