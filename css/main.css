@@ -23,11 +23,11 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: LightGreen;
 }
-    h2{ font-size :2em;
+    h2{ font-size :3em;
         color: Azure;
     }
 
@@ -52,10 +52,11 @@ ul.posts li {
 }
 ol li {
        margin: 20px auto 40px; 
-    font-size 1.5em;
+    font-size 2em;
     color: YellowGreen; 
 }
 table {
+    color:white;
   height: 40%;
   left: 10%;
   margin: 20px auto;
@@ -65,9 +66,8 @@ table {
 }
 
 thead th {
-  color: YellowGreen;
   font-family: 'Lato', sans-serif;
-  font-size: 18px;
+  font-size: 3em;
   font-weight: 100;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -84,7 +84,7 @@ th, td {
   font-weight: 400;
   padding: 20px;
   text-align: left;
-  font-size:18px;
+  font-size:3em;
   width: 33.3333%;
 }
 .border{
