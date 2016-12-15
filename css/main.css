@@ -71,7 +71,6 @@ table {
   width: 80%;
 } 
 h3{
-    position:center
         font-size: 3em;
               letter-spacing: 2px;
         padding: 100px
@@ -82,7 +81,7 @@ tr {
   margin-bottom: 5px;
 }
 
-th, td{
+thead th, td{
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   padding: 20px;
