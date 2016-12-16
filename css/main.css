@@ -29,11 +29,11 @@ h1 {
           letter-spacing: 2px;
         padding:50px;
 }
-    h2{  font-size: 4em;
+    h2{  font-size: 3.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: LightGreen;
       letter-spacing: 2px;
-        padding: 50px;
+        padding: 25px;
     }
 
 p {
@@ -58,7 +58,7 @@ ul.posts li {
 }
 ol li {
        margin: 20px auto 40px; 
-    font-size: 2em;
+    font-size: 2.5em;
     padding: 20px;
     font-weight: 50;
     color:white;
