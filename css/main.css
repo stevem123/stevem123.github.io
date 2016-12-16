@@ -95,8 +95,9 @@ thead th, td{
   font-size:3em;
   width: 33.3333%;
 }
-.border{
-  border: 1px solid #DDD;
-  border-radius: 3px;
+th{
+border: 2px solid
 }
-
+td{
+    border: 2px solid
+}
