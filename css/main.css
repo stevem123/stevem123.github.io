@@ -76,9 +76,11 @@ table {
   width: 80%;
 } 
 h3{
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
         font-size: 3em;
               letter-spacing: 2px;
         padding: 25px;
+        color:	#7FFF00;
         font-weight 200;
 }
 
@@ -101,3 +103,10 @@ border: 2px solid
 td{
     border: 2px solid
 }
+h4{    
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+            font-size: 3em;
+              letter-spacing: 2px;
+        padding: 15px;
+        font-weight 100;
+    color: White;
