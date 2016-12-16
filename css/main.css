@@ -42,6 +42,9 @@ p {
     line-height: 1.4em;
     color: Azure;
     font-family: 'Times', 'Arial', 'San-Serif';
+    border-style: solid;
+    border-width: 12px;
+    border-color: black;
 }
 footer {
     border-top: 1px solid #d5d5d5;
