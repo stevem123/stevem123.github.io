@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: Red;
+    color: White;
 }
 a:hover {
     text-decoration: underline;
@@ -25,14 +25,14 @@ a:hover {
 h1 {
     font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: 	E6E6FA;
+    color: 	"E6E6FA";
           letter-spacing: 2px;
         padding:20px;
         text-decoration: underline;
 }
     h2{  font-size: 3.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: 	E6E6FA;
+    color: 	"E6E6FA";
       letter-spacing: 2px;
         padding: 25px;
     }
@@ -111,14 +111,5 @@ h4{
         padding: 5px;
         font-weight 100;
     color: White;
-  h5{     
-        font-family:'Helvetica', 'Arial', 'Sans-Serif';
-            font-size: 3em;
-              letter-spacing: 2px;
-        padding: 5px;
-        font-weight 100;
-    color: White;
     }
-.position{
-    position: center;
-    }
+
