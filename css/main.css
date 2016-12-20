@@ -25,13 +25,14 @@ a:hover {
 h1 {
     font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: LightGreen;
+    color: 	E6E6FA;
           letter-spacing: 2px;
         padding:20px;
+        text-decoration: underline;
 }
     h2{  font-size: 3.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: LightGreen;
+    color: 	E6E6FA;
       letter-spacing: 2px;
         padding: 25px;
     }
@@ -50,7 +51,6 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -111,6 +111,14 @@ h4{
         padding: 5px;
         font-weight 100;
     color: White;
+  h5{     
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+            font-size: 3em;
+              letter-spacing: 2px;
+        padding: 5px;
+        font-weight 100;
+    color: White;
+    }
 .position{
     position: center;
     }
